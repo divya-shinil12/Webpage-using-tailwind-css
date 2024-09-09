@@ -18,4 +18,5 @@ This project is a simple, responsive webpage built using Tailwind CSS. The webpa
 
 This project was created to apply and study Tailwind CSS styling utility classes.
 
+![image](https://github.com/user-attachments/assets/d709534a-5348-40cf-a53e-13ce7e918365)
 
