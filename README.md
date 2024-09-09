@@ -16,4 +16,6 @@ This project is a simple, responsive webpage built using Tailwind CSS. The webpa
 5. Contact Section: Call-to-action button for email inquiries.
 6. Footer: Contains a simple copyright message.
 
+This project was created to apply and study Tailwind CSS styling utility classes.
+
 
